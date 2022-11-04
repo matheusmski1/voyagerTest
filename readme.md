@@ -1,1 +1,1 @@
-To start: just type node index.js
+To start: Npm Install and just type node index.js
